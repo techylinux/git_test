@@ -6,5 +6,6 @@ public static void main (String [] args){
     int d = a - (a/b)*b;
 
     System.out.println(c);
+jnnnn
     System.out.println(d);
 }
